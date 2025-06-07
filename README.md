@@ -15,17 +15,6 @@ This is a Proof of Concept (POC) for session management in a React application. 
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
-## Project Structure
-
-```
-├── client/             # React frontend application
-│   ├── src/           # Source code
-│   ├── public/        # Static assets
-│   └── build/         # Production build files
-├── server.js          # Backend server
-└── package.json       # Project dependencies
-```
-
 ## Setup
 
 1. Clone the repository
